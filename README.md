@@ -1,5 +1,8 @@
 # fix-protocol-support
 Create code for ongoing implementation support for FIX protocol.
+
+**Disclaimer**: This was the initial prototype. The beta-friendly version is a private WIP as a possible library to extend existing support. Options 1 and 2 are two separate brainstorms. I have been exploring common protocols used for trading. My eyes are currently set on the FIX protocol. I have been dabbling with possible extensions as a result of some complaints/vents from random forums. I am beginning to form options but this should be an interesting rabbit hole. I realize I should have probably made this into a blog entry but oh well. Signing off! 🫡
+
 # Option 1
 
 Here is an example of how you might implement ongoing support for the FIX protocol in Python:
